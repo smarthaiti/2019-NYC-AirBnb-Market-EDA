@@ -1,10 +1,10 @@
 # 2019-NYC-AirBnb-Market-EDA
 
-In this notebook, we will take a look at the NYC Airbnb market by combining data from multiple file types like .csv, .tsv, and .xlsx.
+In this notebook, I take a look at the NYC Airbnb market by combining data from multiple file types like .csv, .tsv, and .xlsx.
 
 
 
-We will be working with three datasets:
+I will be working with three datasets:
 
 "datasets/airbnb_price.csv"
 "datasets/airbnb_room_type.xlsx"
